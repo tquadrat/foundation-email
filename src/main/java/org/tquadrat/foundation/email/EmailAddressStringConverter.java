@@ -41,15 +41,15 @@ import jakarta.mail.internet.InternetAddress;
  *  to get the String representation of the email address.</p>
  *  <p>{@link #fromString(CharSequence)}
  *  calls the constructor
- *  {@link InternetAddress#InternetAddress(String)}</p>
+ *  {@link InternetAddress#InternetAddress(String)}.</p>
  *
  *  @extauthor Thomas Thrien - thomas.thrien@tquadrat.org
- *  @version $Id: EmailAddressStringConverter.java 1108 2024-03-01 15:48:32Z tquadrat $
+ *  @version $Id: EmailAddressStringConverter.java 1110 2024-03-04 15:26:06Z tquadrat $
  *  @since 0.4.2
  *
  *  @UMLGraph.link
  */
-@ClassVersion( sourceVersion = "$Id: EmailAddressStringConverter.java 1108 2024-03-01 15:48:32Z tquadrat $" )
+@ClassVersion( sourceVersion = "$Id: EmailAddressStringConverter.java 1110 2024-03-04 15:26:06Z tquadrat $" )
 @API( status = STABLE, since = "0.4.2" )
 public final class EmailAddressStringConverter implements StringConverter<InternetAddress>
 {
