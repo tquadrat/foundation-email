@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.tquadrat.foundation.email","l":"EmailAddressStringConverter"}];updateSearchResults();
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html","k":"18"},{"p":"org.tquadrat.foundation.email","l":"EmailAddressStringConverter"}];updateSearchResults();
