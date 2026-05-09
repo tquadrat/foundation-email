@@ -12,4 +12,4 @@ This library module makes email available to your project, together with the ext
    </dependency>
    ```
 ---  
-Last updated: 2026-05-05T16:38:55.842151971+02:00[Europe/Berlin]
+Last updated: 2026-05-09T10:20:03.040048698+02:00[Europe/Berlin]
