@@ -8,8 +8,8 @@ This library module makes email available to your project, together with the ext
    <dependency>
       <groupId>org.tquadrat.library</groupId>
       <artifactId>org.tquadrat.foundation.email</artifactId>
-      <version>0.25.6</version>
+      <version>0.25.10</version>
    </dependency>
    ```
 ---  
-Last updated: 2026-05-25T22:55:34.42024986+02:00[Europe/Berlin]
+Last updated: 2026-05-25T23:12:05.418058719+02:00[Europe/Berlin]
